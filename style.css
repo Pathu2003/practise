@@ -1,0 +1,28 @@
+
+
+.para{
+	color:brown;
+}
+#para{
+	color:white;
+	background-color:black;
+	font-size:35px;
+}
+p{
+	color:blue;
+	background-color:white;
+}
+.text space p{
+	background-color:aqua;
+	color:brown;
+	font-size:30px;
+}
+#about > p{
+	color:blue;
+}
+.about + p{
+	color:yellow;
+}
+#new ~ p{
+    color:purple;
+}
